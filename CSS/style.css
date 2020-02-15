@@ -1,0 +1,118 @@
+header {
+    background-color: #000000;
+}
+
+.logo {
+    display: flex;
+    flex: 1px 1px 0;
+    border-radius: 10px;
+    height: 10%;
+}
+
+.pagelogo {
+    display: flex;
+    justify-content: center;
+}
+
+img {
+    display: flex;
+    width: 20%;
+}
+
+
+/* ####################################   CONTENT  ############################*/
+
+#main {
+    background-color: #1D2329;
+}
+
+h4 {
+    text-align: right;
+}
+
+#headline {
+    background-color: #1D2329;
+    display: flex;
+    justify-content: center;
+}
+
+.col-lg-5 {
+    background-color: #181818;
+}
+
+.lightgray {
+    background-color: lightgray;
+}
+
+.cols {
+    background-color: #181818;
+    padding: 0.5rem;
+}
+
+.colorFont {
+    color: white;
+}
+
+button {
+    background-color: #181818;
+    color: #08D701;
+    border: 0;
+    font-size: 100%;
+    width: 35%;
+    vertical-align: baseline;
+    margin: 0;
+    background-color: #181818;
+    text-align: right;
+}
+
+.thumbup {
+    width: 35%;
+}
+
+.count {
+    background-color: #08D701;
+    border-radius: 50px;
+    border-color: black;
+    font-size: 100%;
+    padding-left: 1.5%;
+    padding-right: 1.5%;
+    width: 55%;
+}
+
+.description {
+    text-align: left;
+    column-count: 2;
+    font-size: 100%;
+    overflow: inherit;
+}
+
+.like-button {
+    margin: 0;
+    background-color: #181818;
+    text-align: right;
+}
+
+.picture {
+    text-align: center;
+}
+
+
+/* ###########################################   FOOTER  #####################################  */
+
+footer {
+    background-color: #000000;
+}
+
+.price {
+    display: flex;
+    justify-content: center;
+}
+
+
+/* ###################################  PRICES PAGE #############################################*/
+
+.price img {
+    width: 80%;
+    box-shadow: 10px 10px 10px grey;
+    margin: 5%;
+}

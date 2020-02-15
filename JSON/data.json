@@ -1,0 +1,37 @@
+movies = [{
+        "movieName": "Star Wars",
+        "description": "THE RISE OF SKYWALKER",
+        "photo": "<img width=50% src=Images/01.jpeg>",
+        "likes": "13"
+    },
+    {
+        "movieName": "Scary Movie",
+        "description": "No mercy. No shame. No sequel",
+        "photo": "<img width=50% src=Images/02.jpg>",
+        "likes": "13"
+    },
+    {
+        "movieName": "AVENGERS",
+        "description": "ENDGAME",
+        "photo": "<img width=50% src=Images/03.jpg>",
+        "likes": "13"
+    },
+    {
+        "movieName": "BAD BOYS FOR LIFE",
+        "description": "RIDE TOGETHER. DIE TOGETHER.",
+        "photo": "<img width=50% src=Images/04.jpeg>",
+        "likes": "13"
+    },
+    {
+        "movieName": "JUMANJI",
+        "description": "WELCOME TO THE JUNGLE",
+        "photo": "<img width=50% src=Images/05.jpg>",
+        "likes": "13"
+    },
+    {
+        "movieName": "LA CASA DE PAPEL",
+        "description": "SOON IN NETFLIX",
+        "photo": "<img width=50% src=Images/06.jpg>",
+        "likes": "13"
+    }
+]
